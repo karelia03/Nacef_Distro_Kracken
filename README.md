@@ -7,11 +7,11 @@
 <h2 align="center">A New Linux Distro</h2>
 
 <div>
-  <h1>
+  <h3>
     <p><b>
     A new linux distro created by nacef kaddechi for his end of studies project. This was the collective work of "flen " and "falten". Below you can find an overview of our work , teckstack implemented, and some cool features about this project.
     </b></p>
-  </h1>
+  </h3>
 </div>
 <br />
 <div>
