@@ -7,10 +7,15 @@
 <h2 align="center">A New Linux Distro</h2>
 
 <div>
-  
+  <h1>
+    <p><b>
+    A new linux distro created by nacef kaddechi for his end of studies project. This was the collective work of "flen " and "falten". Below you can find an overview of our work , teckstack implemented, and some cool features about this project.
+    </b></p>
+  </h1>
 </div>
+<br />
 <div>
-  <h2>🔋 Features</h2>
+   <h2>🔋 Features</h2>
     <ul>
       <li></li>
       <li></li>
@@ -20,18 +25,17 @@
       <li></li>
     </ol>
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
-<div>
-  <ul>
-    <li>aaa</li>
-    <li>bbb</li>
-    <li>ccc</li>
-    <li>ddd</li>
-    <li>eee</li>
-    <li>fff</li>
-    <li>gggg</li>
-
-  </ul>
+  <h2>⚙️ Tech Stack</h2>
+    <div>
+      <ul>
+        <li>aaa</li>
+        <li>bbb</li>
+        <li>ccc</li>
+        <li>ddd</li>
+        <li>eee</li>
+        <li>fff</li>
+        <li>gggg</li>
+      </ul>
+    </div>
   
-</div>
 </div>
