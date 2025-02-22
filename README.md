@@ -43,5 +43,5 @@
   </div>
   <br />
 
-  <div align="center">🔥<h4> Kracken OS — Unleash the power of Linux.</h4></div>
+  <div align="center"><h4>🔥 Kracken OS — Unleash the power of Linux.</h4></div>
 </div>
