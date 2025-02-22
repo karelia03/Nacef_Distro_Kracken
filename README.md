@@ -24,7 +24,6 @@
     </ol>
 
   <h2>⚙️ Tech Stack</h2>
-    <div>
       <ul>
         <li>aaa</li>
         <li>bbb</li>
@@ -34,9 +33,9 @@
         <li>fff</li>
         <li>gggg</li>
       </ul>
-    </div>
   
 </div>
+<br/>
 <div>
   <div align="center"><h3>🛠️ Acknowledgments</h3>
     We'd like to thank everyone who contributed to the development and testing of Kracken OS.
