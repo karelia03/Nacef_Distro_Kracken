@@ -9,7 +9,7 @@
 <div>
   <h5>
     <p>
-    A new linux distro created by nacef kaddechi for his end of studies project. This was the collective work of "flen " and "falten". Below you can find an overview of our work , teckstack implemented, and some cool features about this project.
+    Kracken OS is a new Linux distribution created by Nacef Kaddechi as part of his end-of-studies project. This collaborative effort involved "Flen" and "Falten." Below, you'll find an overview of our work, the tech stack we implemented, and the standout features of this project.
     </p>
   </h5>
 </div>
@@ -39,3 +39,8 @@
     </div>
   
 </div>
+🛠️ Acknowledgments
+We'd like to thank everyone who contributed to the development and testing of Kracken OS.
+
+<div align="center">🔥 Kracken OS — Unleash the power of Linux.</div>
+
