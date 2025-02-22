@@ -8,9 +8,9 @@
 
 <div>
   <h3>
-    <p><b>
+    <p>
     A new linux distro created by nacef kaddechi for his end of studies project. This was the collective work of "flen " and "falten". Below you can find an overview of our work , teckstack implemented, and some cool features about this project.
-    </b></p>
+    </p>
   </h3>
 </div>
 <br />
