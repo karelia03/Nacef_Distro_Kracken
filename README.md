@@ -21,7 +21,7 @@
       <li></li>
       <li></li>
       <li></li>
-    </ol>
+    </ul>
 
   <h2>⚙️ Tech Stack</h2>
       <ul>
