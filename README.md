@@ -39,8 +39,9 @@
     </div>
   
 </div>
-🛠️ Acknowledgments
-We'd like to thank everyone who contributed to the development and testing of Kracken OS.
+<div align="center">🛠️ Acknowledgments
+We'd like to thank everyone who contributed to the development and testing of Kracken OS.</div>
+<br />
 
 <div align="center">🔥 Kracken OS — Unleash the power of Linux.</div>
 
