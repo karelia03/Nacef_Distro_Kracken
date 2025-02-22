@@ -1,4 +1,4 @@
-<div align="center"> <h1> Kracken OS </h1></div>
+<div align="center"> <h1><b>Kracken OS</b></h1></div>
 <br/>
 <div align="center">
   <img src="https://t3.ftcdn.net/jpg/05/64/87/20/360_F_564872001_UXnxDt9vcQXQx0BgeW4HUG5WvckBqLbw.jpg" alt="logo"  width="1000px" height="450px"/> 
@@ -7,11 +7,11 @@
 <h2 align="center">A New Linux Distro</h2>
 
 <div>
-  <h3>
+  <h5>
     <p>
     A new linux distro created by nacef kaddechi for his end of studies project. This was the collective work of "flen " and "falten". Below you can find an overview of our work , teckstack implemented, and some cool features about this project.
     </p>
-  </h3>
+  </h5>
 </div>
 <br />
 <div>
