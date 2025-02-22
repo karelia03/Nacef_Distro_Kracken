@@ -4,7 +4,7 @@
   <img src="https://t3.ftcdn.net/jpg/05/64/87/20/360_F_564872001_UXnxDt9vcQXQx0BgeW4HUG5WvckBqLbw.jpg" alt="logo"  width="1000px" height="450px"/> 
 </div>
 <br/>
-<h3 align="center">A New Linux Distro</h3>
+<h2 align="center">A New Linux Distro</h2>
 
 <div>
   
@@ -21,12 +21,17 @@
     </ol>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
--
--
--
--
--
--
--
--
+<div>
+  <ul>
+    <li></li>
+      <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+
+  </ul>
+  
+</div>
 </div>
