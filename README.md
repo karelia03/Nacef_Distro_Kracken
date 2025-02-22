@@ -23,13 +23,13 @@
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 <div>
   <ul>
-    <li></li>
-      <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+    <li>aaa</li>
+    <li>bbb</li>
+    <li>ccc</li>
+    <li>ddd</li>
+    <li>eee</li>
+    <li>fff</li>
+    <li>gggg</li>
 
   </ul>
   
